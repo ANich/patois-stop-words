@@ -34,6 +34,12 @@ english_stop_words = get_stop_words('en')
 patois_stop_words = get_patois_stop_words()
 
 stop_words = english_stop_words + patois_stop_words
+
+# Alternatively, if you're using nltk:
+
+from nltk.corpus import stopwords
+
+stop_words = stopwords.words('english') + patois_stop_words
 ```
 
 Please let me know if you decide to use this in some way! 
