@@ -1,4 +1,4 @@
-# [Stop Words](https://en.wikipedia.org/wiki/Stop_words) for [Patois](https://en.wikipedia.org/wiki/Jamaican_Patois).
+# [Stop Words](https://en.wikipedia.org/wiki/Stop_words) for [Jamaican Patois](https://en.wikipedia.org/wiki/Jamaican_Patois).
 
 Here's a python package containing some commonly used words in Patois.
 
